@@ -1,0 +1,24 @@
+let space1 = "   |   |   |";
+let space2 = " x | 0  |    |  ";
+let space3 = "   |   |   |";
+let space4 = "------------";
+let space5 = "   |   |   |";
+let space6 = " x | x  |    |  ";
+let space7 = "   |   |   |";
+let space8 = "------------";
+let space9 = "   |   |   |";
+let space10 = " 0 |    |    |";
+let space11 = "   |   |   |";
+
+console.log("    |    |    |    ");
+console.log(` ${space2}        `);
+console.log("    |    |    |    ");
+console.log("- - - - - - - - - - -");
+console.log("    |    |    |    ");
+console.log(` ${space6}        `);
+console.log("    |    |    |    ");
+console.log("- - - - - - - - - - -");
+console.log("    |    |    |    ");
+console.log(` ${space10}        `);
+console.log("    |    |    |    ");
+console.log("- - - - - - - - - - -");
